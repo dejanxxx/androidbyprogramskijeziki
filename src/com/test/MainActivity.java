@@ -10,6 +10,6 @@ public class MainActivity extends Activity {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
-        Toast.makeText(this, "test", Toast.LENGTH_LONG).show();
+        Toast.makeText(this, "test Pa dela!", Toast.LENGTH_LONG).show(); //by me
     }
 }
