@@ -12,5 +12,6 @@ public class MainActivity extends Activity {
         setContentView(R.layout.main); //sasd
         Toast.makeText(this, "test", Toast.LENGTH_LONG).show();  // dont spam my code
         System.out.println("Juhu");
+        System.out.println("Test dejan");
     }
 }
