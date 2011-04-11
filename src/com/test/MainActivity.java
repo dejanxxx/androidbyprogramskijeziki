@@ -9,7 +9,7 @@ public class MainActivity extends Activity {
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.main);
+        setContentView(R.layout.main); //sasd
         Toast.makeText(this, "test", Toast.LENGTH_LONG).show();  // dont spam my code
     }
 }
