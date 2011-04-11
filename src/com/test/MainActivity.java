@@ -10,7 +10,7 @@ public class MainActivity extends Activity {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
-        System.out.println("Test");
+        System.out.println("Test"); //by me
         Toast.makeText(this, "test", Toast.LENGTH_LONG).show();
     }
 }
