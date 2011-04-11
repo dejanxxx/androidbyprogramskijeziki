@@ -11,5 +11,6 @@ public class MainActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main); //sasd
         Toast.makeText(this, "test", Toast.LENGTH_LONG).show();  // dont spam my code
+        System.out.println("Juhu");
     }
 }
